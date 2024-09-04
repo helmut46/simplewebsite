@@ -463,6 +463,7 @@ body {
     font-weight: bold;
    text-transform: capitalize;
    font-variant: small-caps;
+   color: lightskyblue;
 }
 
 .header ul li {
