@@ -428,7 +428,7 @@ body {
    left: 0;
    right: 0;
    height: 40px;
-   background-color: lightskyblue;
+   background-color: black;
    border-bottom: 3px solid salmon;
    z-index: 999;
 }
